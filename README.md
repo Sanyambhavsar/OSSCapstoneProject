@@ -141,7 +141,7 @@ chmod +x script5_manifesto.sh
 
 ```bash
 # Clone the repository
-git clone https://github.com/Sanyambhavsar/OSSCapstoneProject
+git clone https://github.com/Sanyambhavsar/OSSCapstoneProject.git
 cd oss-audit-[rollnumber]
 
 # Make all scripts executable at once
