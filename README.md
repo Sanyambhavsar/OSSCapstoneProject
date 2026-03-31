@@ -1,5 +1,3 @@
-# OSSCapstoneProject
-Open Source Audit Project | Python (PSF License)   Detailed report + 5 practical Bash shell scripts demonstrating Linux command-line skills.   Submitted for Open Source Software (OSS NGMC) Course,Name-Sanyam Bhavsar Reg.no-24MIP10124 VIT Bhopal.
 # OSS Audit 
 
 **Course:** Open Source Software | OSS NGMC
@@ -13,7 +11,7 @@ Open Source Audit Project | Python (PSF License)   Detailed report + 5 practical
 | Chosen Software : Python
 | License : PSF License v2
 | Slot : B22
-| Date of Submission : 28-03-2026
+| Date of Submission : 31-03-2026
 
 
 ## About the Chosen Software
@@ -142,7 +140,7 @@ chmod +x script5_manifesto.sh
 ```bash
 # Clone the repository
 git clone https://github.com/Sanyambhavsar/OSSCapstoneProject.git
-cd oss-audit-[rollnumber]
+
 
 # Make all scripts executable at once
 chmod +x *.sh
